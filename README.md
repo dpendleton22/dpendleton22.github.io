@@ -77,6 +77,7 @@ A histogram will show how frequently a specific stat occured, and with a little 
 <p>
 
 ### Milwuakee Bucks and Rebounding:
+
 Of the 32 games the Milwaukee Bucks have managed 42 or more total rebounds they’ve won 75% of those games or 26 games to be exact. The league’s average for team’s total rebounds is 43! This means it is more than probable for this team to increase their team rebounding
 Note the league FGA, FG and Milwaukee’s FGA, FG (MIL shoots 3 shots less than the league FGA but maintains to be within the league mean of FG with 39)</p>
 
