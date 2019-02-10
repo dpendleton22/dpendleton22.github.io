@@ -1,6 +1,6 @@
 # Exploratory Data Analysis
 
-<b>Long story short:</b>
+### TL;DR
 <p>
 Exploratory analysis is an underrated process that allows us to gain some critical knowledge about the data to discover trends and outliers. You need to explore your data before you try and predict your data </p>
 
@@ -76,7 +76,7 @@ A histogram will show how frequently a specific stat occured, and with a little 
 <b>How well did MIL and SAC play during home and away games?</b>
 <p>
 
-#### Milwuakee Bucks and Rebounding:
+### Milwuakee Bucks and Rebounding:
 Of the 32 games the Milwaukee Bucks have managed 42 or more total rebounds they’ve won 75% of those games or 26 games to be exact. The league’s average for team’s total rebounds is 43! This means it is more than probable for this team to increase their team rebounding
 Note the league FGA, FG and Milwaukee’s FGA, FG (MIL shoots 3 shots less than the league FGA but maintains to be within the league mean of FG with 39)</p>
 
@@ -100,5 +100,5 @@ Last season SAC won 74% of their games (24/34) when they had 23 or more assists 
 
 Sacramento is currently 9th in the Western conference with a 29-23 record and they have two 2019 all-stars in De’Aron Fox and Buddy Hield. They’re a team to lookout for in the next few seasons and even for the second half of this year.
 
-### TL;DR
+### The Jist
 Exploring and understanding these basic stats (BLK, AST, etc.) and how they are utilized with each team gives us a better understanding of what stats are important and to which teams. A box plot is useful to determine how well a team is competing compared to the league but in order to get a detail of overall performance a histogram is better. A team such as Sacramento, with a young future star point guard, they are expected to do better with ball movement and setting up efficient shots. Milwaukee having a number of tall and lanky players such as the Greek Freak, Thon Maker and Brook Lopez, they’re expected to not give second shot opportunities to their opponents by rebounding better. With this information we are able to select what tags are imperative in creating a predictive model for the second half of the season.
