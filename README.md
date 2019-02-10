@@ -6,7 +6,7 @@ Exploratory analysis is an underrated process that allows us to gain some critic
 
 <b><i>What is this article and what will you show me?</i></b>
 <p>
-For quite some time I’ve been meaning to jump into the realm of sports analytics but there were way too many things to take into account and five-thirty-eight is killing’ the game so why even bother? Because it’s real out here and I still have questions that are not answered, and I aint going to Sway for the answers. 
+For quite some time I’ve been meaning to jump into the realm of sports analytics but there were way too many things to take into account and five-thirty-eight is killing’ the game so why even bother? Because it’s real out here and I still have questions that are not answered, and I aint going to Sway for the answers. </p>
 
 ![](https://media.giphy.com/media/PaPvxVB5dD6py/giphy.gif)
 
