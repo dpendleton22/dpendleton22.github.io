@@ -19,8 +19,8 @@ Some people think you need have have your programming skills at a Bruce Lee leve
 <b>How well did MIL and SAC average amongst the entire league last year?<b>
 Before we start getting jiggy with it, what are some things we already know about what happened last year (2017-2018)? GSW shot the lights out! This KD added team terrorized the entire NBA and made a snooze fest out of the regular and post season, even J.R. Smith went to sleep during the finals 
 
-![](https://giphy.com/gifs/8cDKaE5HFgmE3qQr2a/html5)
+![](https://media.giphy.com/media/8cDKaE5HFgmE3qQr2a/giphy.gif)
 
 So to answer this question we need the right type of plot to give us a quick glance of the entire NBA league over the season. This calls for a box plot summary of the stats we wish to view. A quick summary for those who dosed off during stats about box plots and when they’re useful. A box plot provides a graphical percentage summary of the distribution of the data. With this information in mind, I’m gonna guess GSW are at the top of a shooting percentage (FG and/or 3P). Knowing where the 2-time NBA champs sat gives us a benchmark to compare how SAC and MIL are with those same stats. 
 
-![alt text](nba_plots/2017_2018_nba_szn.png)
+![alt text](https://github.com/dpendleton22/dpendleton22.github.io/blob/master/nba_plots/2017-2018%20NBA%20Szn.png)
