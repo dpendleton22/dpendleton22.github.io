@@ -23,4 +23,4 @@ Before we start getting jiggy with it, what are some things we already know abou
 
 So to answer this question we need the right type of plot to give us a quick glance of the entire NBA league over the season. This calls for a box plot summary of the stats we wish to view. A quick summary for those who dosed off during stats about box plots and when they’re useful. A box plot provides a graphical percentage summary of the distribution of the data. With this information in mind, I’m gonna guess GSW are at the top of a shooting percentage (FG and/or 3P). Knowing where the 2-time NBA champs sat gives us a benchmark to compare how SAC and MIL are with those same stats. 
 
-![](https://github.com/dpendleton22/dpendleton22.github.io/blob/master/nba_plots/2017-2018%20NBA%20Szn.png)
+![](nba_plots/2017-2018%20NBA%20Szn.png)
