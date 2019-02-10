@@ -6,7 +6,8 @@ Exploratory analysis is an underrated process that allows us to gain some critic
 
 <b><i>What is this article and what will you show me?</i></b>
 <p>
-For quite some time I’ve been meaning to jump into the realm of sports analytics but there were way too many things to take into account and five-thirty-eight is killing’ the game so why even bother? Because it’s real out here and I still have questions that are not answered, and I aint going to Sway for the answers. </p>
+For quite some time I’ve been meaning to jump into the realm of sports analytics but there were way too many things to take into account and five-thirty-eight is killing’ the game so why even bother? Because it’s real out here and I still have questions that are not answered, and I aint going to Sway for the answers. 
+</p>
 
 ![](https://media.giphy.com/media/PaPvxVB5dD6py/giphy.gif)
 
@@ -15,6 +16,7 @@ So who better than myself. My plan is to provide analytics for teams that intere
 <i>”Imma let you finish David, you had me with the Bucks but the Kings my dude….really?”</i> 
 <p>-Yes, really, the Sacramento Kings are a team to watch for. </p>
 
+<p>
 There’s really no need to explain the Bucks as they have the Greek Freak, Giannis Antetokounmpo. This kid, yes I said kid (he was born in 1994!) is 6’11 and 245 lbs (sweet Jesus this kid is a freak). His time with he Bucks was eventually going to come and with LeBron leaving that time might be now. The Milwaukee Bucks (MIL) and Sacramento Kings (SAC) were initially selected from my knowledge of watching basketball over the years with no analytic knowledge to backup my initial selections. In an effort to support these claims, let’s do some exploratory analysis to backup my initial selections
 </p>
 
