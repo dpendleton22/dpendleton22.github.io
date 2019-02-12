@@ -41,6 +41,27 @@ Before we start getting jiggy with it, what are some things we already know abou
 
 So to answer this question we need the right type of plot to give us a quick glance of the entire NBA league over the season. This calls for a box plot summary of the stats we wish to view. A quick summary for those who dosed off during stats about box plots and when they’re useful. A box plot provides a graphical percentage summary of the distribution of the data. With this information in mind, I’m gonna guess GSW are at the top of a shooting percentage (FG and/or 3P). Knowing where the 2-time NBA champs sat gives us a benchmark to compare how SAC and MIL are with those same stats. 
 
+### Hold up, wait a minute:
+Before we jump stop into this box plot let's take a quick euro step to learn about the various measured stats in this article. 
+
+![](https://media.giphy.com/media/2mBBlZ682gMPdikKQo/giphy.gif)
+
+<i>Shoutout to the WNBA for this one #WatchMeWork</i>
+
+NBA stats have two distinct categories, baisc and advanced. All the stats used in this article are categorized as basic stats; which are stats that can be determined in-game. Such as keeping track of a teams points or how many blocks they have. Advanced stats is a newer trend in the field and is where things get a little, well...advanced. They can include stats such as player ratings or player efficiency. These advanced stats are developed calculations that are derived by using the basic stats in the alogorithms. I'll dive into the different advanced stats in another article but for the basic stats you'll see the following:
+* <b>FG%</b> - Field goal percenatge
+* <b>3P%</b> - Three point percentage
+* <b>FT%</b> - Free throw percentage
+* <b>AST</b> - Total assists
+* <b>BLK</b> - Total blocks
+* <b>ORB</b> - Total offensive rebounds
+* <b>TRB</b> - Total rebounds, offensive and defensive
+* <b>TOV</b> - Total turnovers
+
+All basic stats in this article are on a team level but they can also be used to measure an individual player's performance.
+
+### NBA 2017 - 2018 League Summary
+
 ![](nba_plots/2017-2018%20NBA%20Szn.png)
 
 <b>What is the take away from observing the 2017-2018 season overall?</b>
@@ -74,10 +95,10 @@ A histogram will show how frequently a specific stat occured, and with a little 
 * Using a histogram with a little bit of sauce, we'll be able to see how well a team performed home vs away and if they more frequently won or lost those games
 
 <b>How well did MIL and SAC play during home and away games?</b>
-<p>
 
 ### Milwuakee Bucks and Rebounding:
 
+<p>
 Of the 32 games the Milwaukee Bucks have managed 42 or more total rebounds they’ve won 75% of those games or 26 games to be exact. The league’s average for team’s total rebounds is 43! This means it is more than probable for this team to increase their team rebounding
 Note the league FGA, FG and Milwaukee’s FGA, FG (MIL shoots 3 shots less than the league FGA but maintains to be within the league mean of FG with 39)</p>
 
